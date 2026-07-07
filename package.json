@@ -1,0 +1,11 @@
+{
+  "name": "a2llc-tutors",
+  "version": "1.0.0",
+  "description": "A2LLC Tutors - teacher/student tutoring portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=20.0.0" },
+  "license": "ISC"
+}
